@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,WACE,qCAA+B,CAA/B,6BAA+B,CAA/B,wDACF,CAEA,iBACE,4BAAqB,CAArB,oBACF,CAEA,cACE,cACF","file":"main.b27cce1b.chunk.css","sourcesContent":[".page-link {\n  transition: transform 0.3s ease;\n}\n\n.page-link:hover {\n  transform: scale(1.2);\n}\n\n.form-control {\n  cursor: pointer;\n}\n"]}
